@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": "da6b7930-4436-11e9-b3b9-0355e5be7a74",
+            "name": "webpack - test",
+            "picture": "http://localhost:3000/http://localhost:3000/webpack.png"
+        },
+        {
+            "id": "541d33f0-443b-11e9-8d42-954eb2006ea4",
+            "name": "webpack - test",
+            "picture": "http://localhost:3000/http://localhost:3000/webpack.png"
+        }
+    ]
+}

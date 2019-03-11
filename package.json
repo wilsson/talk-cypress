@@ -1,0 +1,38 @@
+{
+  "name": "talk-cypress",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "server": "nodemon ./server"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "^16.8.2",
+    "axios": "0.18.0",
+    "cypress": "3.1.5",
+    "express": "4.16.4",
+    "html-webpack-plugin": "^3.2.0",
+    "multer": "1.4.1",
+    "nodemon": "1.18.10",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "styled-components": "4.1.3",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "uuid": "3.3.2",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {
+    "react-feather": "1.1.6",
+    "react-redux": "6.0.1",
+    "react-router-config": "4.4.0-beta.6",
+    "react-router-dom": "4.3.1",
+    "redux": "4.0.1",
+    "redux-form": "8.1.0"
+  }
+}

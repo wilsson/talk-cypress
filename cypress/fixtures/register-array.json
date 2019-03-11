@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "name": "name",
+            "value": "José Gabriel"
+        },
+        {
+            "name": "lastname",
+            "value": "Condorcanqui Noguera"
+        },
+        {
+            "name": "address",
+            "value": "Ciudad del Cuzco"
+        },
+        {
+            "name": "email",
+            "value": "tupacsito@gmail.com"
+        },
+        {
+            "name": "phone",
+            "value": "958392839"
+        },
+        {
+            "name": "code",
+            "value": "4353"
+        },
+        {
+            "name": "date",
+            "value": "1738-03-19"
+        }
+    ]
+}
